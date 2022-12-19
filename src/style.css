@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: red;
+  padding-bottom:27rem ;
+  padding-top: 10rem;
+}
+.emoji_block{
+  background-color: black;
+  font-Size: 1.5rem;
+  padding: 0.5rem;
+  cursor: pointer;
+  padding: 0.5rem;
+}
+.alStyle{
+  background-color: blue;
+  width: 50%;
+  padding: 5rem;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 1rem;
+};
